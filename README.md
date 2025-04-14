@@ -1,40 +1,56 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3d1&height=180&text=Go%20Wild,%20Speak%20Loud,%20Think%20Hard&animation=twinkling&fontColor=322f31&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Passionate backend Developer Who loves learning and solving problems to make things work </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/kiteof_park/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kiteof_park/"> </a>
-         <a href=https://velog.io/@kiteof_park> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kiteof_park"> </a>
-         <a href=mailto:euiyeon0519@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:euiyeon0519@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kiteof-park&bg_color=60,f6eaed,ee637f&title_color=4d4c4c&text_color=4d4c4c"/> <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiteof-park&layout=compact&bg_color=60,f6eaed,ee637f&title_color=4d4c4c&text_color=4d4c4c"/> 
-        </div> 
-    </div>
-    
+###  🍀 Nice way to meet me
+<p>
+    <a href="https://velog.io/@kiteof_park" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <a href="https://until.blog/@kiteof-park" target="_blank"><img src="https://img.shields.io/badge/Until-999999?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+    <a href="mailto:euiyeon0519@gmail.com" target="_blank"><img src="https://img.shields.io/badge/euiyeon0519@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.instagram.com/kiteof_park/" target="_blank"><img src="https://img.shields.io/badge/@kiteof_park-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
+
+<p>
+  👋&nbsp; Hi there!
+</p>
+
+### 🛠️ Skills
+#### Currently Using
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=Junit5&logoColor=white"/>
+</p>
+
+#### Studying
+<p>
+    <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat-square&logo=ElasticStack&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-web-services&logoColor=white"/>
+
+</p>
+
+#### Want to Learn
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Kotlin-7D64FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</p>
+
+
+
+### ✨ GitHub Stats
+![Euiyeon's GitHub status](https://github-readme-stats.vercel.app/api?username=kiteof-park&show_icons=true&theme=onedark)
+
+### ✅ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiteof-park&layout=donut)
