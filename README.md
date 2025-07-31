@@ -10,6 +10,10 @@
   👋&nbsp; Hi there!
 </p>
 
+<h2>🌼 Latest Blog Posts</h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kiteof_park)](https://velog.io/@kiteof_park)
+
 ### 🛠️ Skills
 #### Currently Using
 <p>
@@ -28,27 +32,29 @@
     <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-web-services&logoColor=white"/>
-
 </p>
 
 #### Want to Learn
 <p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-</p>
-<p>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Kotlin-7D64FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
 
-
-### ✨ GitHub Stats
+<h2> ✨ GitHub Stats</h2>
+<div>
+    
 ![Euiyeon's GitHub status](https://github-readme-stats.vercel.app/api?username=kiteof-park&show_icons=true&theme=onedark)
-
-### ✅ Most Used Languages
+</div>
+<div>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiteof-park&layout=donut)
+</div>
+
+
+
