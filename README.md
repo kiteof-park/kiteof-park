@@ -3,7 +3,6 @@
     <a href="https://velog.io/@kiteof_park" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://until.blog/@kiteof-park" target="_blank"><img src="https://img.shields.io/badge/Until-999999?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:euiyeon0519@gmail.com" target="_blank"><img src="https://img.shields.io/badge/euiyeon0519@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.instagram.com/kiteof_park/" target="_blank"><img src="https://img.shields.io/badge/@kiteof_park-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p>
