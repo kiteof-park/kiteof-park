@@ -16,7 +16,7 @@
 ### 🛠️ Skills
 #### Currently Using
 <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-0E5178?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 #### Want to Learn
 <p>
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/RabbitMQ-FA75A6?style=flat-square&logo=rabbitmq&logoColor=white"/>
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
     <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
      <!--
